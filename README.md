@@ -19,7 +19,7 @@ way that you want.
 * Twitter: [@h5bp](https://twitter.com/h5bp)
 
 
-## Quick start
+## Quick start 20200407
 
 Choose one of the following options:
 
@@ -34,7 +34,7 @@ Choose one of the following options:
 * Clone the git repo — `git clone
   https://github.com/h5bp/html5-boilerplate.git` - and checkout the
   [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
-  you'd like to use. The `dist` folder represents the latest version of the project for end users. 
+  you'd like to use. The `dist` folder represents the latest version of the project for end users.
 * Install with [npm](https://www.npmjs.com/): `npm install html5-boilerplate` or [yarn](https://yarnpkg.com/): `yarn add html5-boilerplate`. The resulting `node_modules/html5-boilerplate/dist` folder represents the latest version of the project for end users. Depending on what you want to use and how you want to use it, you may have to copy and paste the contents of that folder into your project directory.
 
 ## Features
@@ -77,7 +77,7 @@ or [HTML5 Boilerplate v5](https://github.com/h5bp/html5-boilerplate/releases/tag
 ## Documentation
 
 Take a look at the [documentation table of contents](dist/doc/TOC.md).
-This documentation is bundled with the project which makes it 
+This documentation is bundled with the project which makes it
 available for offline reading and provides a useful starting point for
 any documentation you want to write about your project.
 
